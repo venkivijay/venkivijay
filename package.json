@@ -1,0 +1,29 @@
+{
+  "name": "venkivijay",
+  "version": "1.0.0",
+  "description": "GitHub Profile Readme",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkivijay/venkivijay.git"
+  },
+  "keywords": [
+    "github",
+    "readme"
+  ],
+  "author": "venkivijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkivijay/venkivijay/issues"
+  },
+  "homepage": "https://github.com/venkivijay/venkivijay#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.6",
+    "simple-icons": "^6.0.0"
+  }
+}

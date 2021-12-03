@@ -1,0 +1,46 @@
+{{! Intro Section}}
+# 👋 Hey there! I'm [Venki Vijay](https://venkivijay.com)
+
+## Glad to see you here &nbsp; ![Visitor's count](https://visitor-badge.glitch.me/badge?page_id={{githubUserName}}.{{githubUserName}}&style=flat-square&color=0088cc)
+
+🔗 Grab a link! Let's talk.
+
+{{! Socials Section}}
+{{#socials}}
+[![{{title}}](https://img.shields.io/badge/-{{title}}-{{hex}}?&style={{socialsStyle}}&logo={{slug}}&logoColor=white)]({{{url}}})
+{{/socials}}
+
+{{! Skills Section}}
+## 💻 Things I code with
+
+---
+
+### 👨‍💻 Languages
+
+{{#languages}}
+![{{title}}](https://img.shields.io/badge/-{{title}}-{{hex}}?style={{globalStyle}}&logo={{slug}}&logoColor=white)
+{{/languages}}
+
+### 🧰 Frameworks & Libraries
+
+{{#libraries}}
+![{{title}}](https://img.shields.io/badge/-{{title}}-{{hex}}?style={{globalStyle}}&logo={{slug}}&logoColor=white)
+{{/libraries}}
+
+### ☁️🗄️ Cloud hosting & Database
+
+{{#cloud}}
+![{{title}}](https://img.shields.io/badge/-{{title}}-{{hex}}?style={{globalStyle}}&logo={{slug}}&logoColor=white)
+{{/cloud}}
+
+### ⚙️ Softwares & Tools
+
+{{#tools}}
+![{{title}}](https://img.shields.io/badge/-{{title}}-{{hex}}?style={{globalStyle}}&logo={{slug}}&logoColor=white)
+{{/tools}}
+
+## Weather
+
+|  Today's weather | It's {{partOfDay}} here!  |
+|:---:|:---:|
+| Temperature: <b>{{temperature}}&#176;C</b><br> Sun Rise: <b>{{sunRise}}</b><br> Sun Set: <b>{{sunSet}}</b><br> Weather: <b>{{weather}}</b> | <img align="left" alt="It's {{partOfDay}} here!" width="200px" height="200px" src="./assets/{{partOfDay}}.svg" />   |

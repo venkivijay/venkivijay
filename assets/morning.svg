@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <radialGradient id="a" cx="17.049" cy="28.951" r="32.363" gradientUnits="userSpaceOnUse">
+    <stop offset=".169" stop-color="#faeeae"/>
+    <stop offset=".388" stop-color="#fac5d9"/>
+    <stop offset=".558" stop-color="#eccee8"/>
+    <stop offset=".807" stop-color="#dcd7f8"/>
+    <stop offset="1" stop-color="#d7dafe"/>
+  </radialGradient>
+  <path fill="url(#a)" d="M40 37H8c-1.105 0-2-.895-2-2V8c0-1.105.895-2 2-2h32c1.105 0 2 .895 2 2v27c0 1.105-.895 2-2 2z"/>
+  <circle cx="17" cy="29" r="7" fill="#fff"/>
+  <path fill="#21a366" d="M15 28c-3.309 0-6.388.509-9 1.375V40c0 1.105.895 2 2 2h21.133C30.942 40.57 32 38.851 32 37c0-4.971-7.611-9-17-9z"/>
+  <linearGradient id="b" x1="32.5" x2="32.5" y1="28.929" y2="25.668" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#c26715"/>
+    <stop offset=".508" stop-color="#b85515"/>
+    <stop offset="1" stop-color="#ad3f16"/>
+  </linearGradient>
+  <path fill="url(#b)" d="M31 14.947h3v15.52c0 .294-.224.533-.5.533h-2c-.276 0-.5-.239-.5-.533v-15.52z"/>
+  <linearGradient id="c" x1="30.543" x2="33.579" y1="9.403" y2="26.619" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#21ad64"/>
+    <stop offset="1" stop-color="#088242"/>
+  </linearGradient>
+  <path fill="url(#c)" d="M37.339 17.534c.412-.574.661-1.273.661-2.034 0-1.777-1.33-3.229-3.046-3.454C34.74 10.883 33.725 10 32.5 10s-2.24.883-2.454 2.046C28.33 12.271 27 13.723 27 15.5c0 .761.249 1.46.661 2.034-.994.617-1.661 1.71-1.661 2.966 0 1.933 1.567 3.5 3.5 3.5.061 0 .118-.015.178-.018C30.086 25.154 31.189 26 32.5 26s2.414-.846 2.822-2.018c.06.003.117.018.178.018 1.933 0 3.5-1.567 3.5-3.5 0-1.256-.667-2.349-1.661-2.966z"/>
+  <linearGradient id="d" x1="24" x2="24" y1="20.261" y2="43.893" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#21ad64"/>
+    <stop offset="1" stop-color="#088242"/>
+  </linearGradient>
+  <path fill="url(#d)" d="M42 31v1c-2-2-5-3-9.5-3-4.472 0-9.437 2.962-13.092 5.286C16.605 36.068 13.346 37 10.025 37H6v3c0 1.105.895 2 2 2h32c1.105 0 2-.895 2-2v-9z"/>
+</svg>
