@@ -38,8 +38,9 @@ const DATA = {
 };
 
 (function setPartOfDay() {
-  const currentHour = new Date().toLocaleString("en-GB", {
+  const currentHour = new Date().toLocaleString("en-IN", {
     hour: "2-digit",
+    hour12: false,
     timeZone: "Asia/Kolkata",
   });
   if (currentHour < 12) DATA.partOfDay = "morning";
