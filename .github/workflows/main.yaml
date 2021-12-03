@@ -19,8 +19,9 @@ jobs:
         with:
           node-version: 12.x
       - name: 🔨 Install & Build
-        run: npm install
-        run: npm run build
+        run: | 
+          npm install
+          npm run build
         env: 
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
       - name: 🚀 Deploy
