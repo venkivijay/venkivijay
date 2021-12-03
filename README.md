@@ -99,4 +99,4 @@
 
 |  Today's weather | It's afternoon here!  |
 |:---:|:---:|
-| Temperature: <b>30&#176;C</b><br> Sun Rise: <b>06:22 AM</b><br> Sun Set: <b>05:51 PM</b><br> Weather: <b>haze</b> | <img align="left" alt="It's afternoon here!" width="200px" height="200px" src="./assets/afternoon.svg" />   |
+| Temperature: <b>29&#176;C</b><br> Sun Rise: <b>06:22 AM</b><br> Sun Set: <b>05:51 PM</b><br> Weather: <b>overcast clouds</b> | <img align="left" alt="It's afternoon here!" width="200px" height="200px" src="./assets/afternoon.svg" />   |
