@@ -99,4 +99,4 @@
 
 |  Today's weather | It's evening here!  |
 |:---:|:---:|
-| Temperature: <b>23&#176;C</b><br> Sun Rise: <b>06:28 AM</b><br> Sun Set: <b>05:55 PM</b><br> Weather: <b>overcast clouds</b> | <img align="left" alt="It's evening here!" width="200px" height="200px" src="./assets/evening.svg" />   |
+| Temperature: <b>22&#176;C</b><br> Sun Rise: <b>06:28 AM</b><br> Sun Set: <b>05:55 PM</b><br> Weather: <b>broken clouds</b> | <img align="left" alt="It's evening here!" width="200px" height="200px" src="./assets/evening.svg" />   |
