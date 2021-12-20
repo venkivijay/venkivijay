@@ -99,4 +99,4 @@
 
 |  Today's weather | It's morning here!  |
 |:---:|:---:|
-| Temperature: <b>17&#176;C</b><br> Sun Rise: <b>06:31 AM</b><br> Sun Set: <b>05:58 PM</b><br> Weather: <b>broken clouds</b> | <img align="left" alt="It's morning here!" width="200px" height="200px" src="./assets/morning.svg" />   |
+| Temperature: <b>21&#176;C</b><br> Sun Rise: <b>06:31 AM</b><br> Sun Set: <b>05:58 PM</b><br> Weather: <b>scattered clouds</b> | <img align="left" alt="It's morning here!" width="200px" height="200px" src="./assets/morning.svg" />   |
