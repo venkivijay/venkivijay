@@ -19,12 +19,15 @@ jobs:
         with:
           node-version: 12.x
       - name: 🔨 Install & Build
-        run: | 
+        run: |
+          echo "README_BEFORE_HASH=$(md5sum README.md)" >> $GITHUB_ENV
           npm install
           npm run build
-        env: 
+          echo "README_AFTER_HASH=$(md5sum README.md)" >> $GITHUB_ENV
+        env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
       - name: 🚀 Deploy
+        if: ${{env.README_BEFORE_HASH != env.README_AFTER_HASH}}
         run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
