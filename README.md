@@ -12,8 +12,6 @@
 
 ## 💻 Things I code with
 
----
-
 ### 👨‍💻 Languages
 
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-plastic&logo=markdown&logoColor=white)
@@ -99,4 +97,6 @@
 
 |  Today's weather | It's night here!  |
 |:---:|:---:|
-| Temperature: <b>21&#176;C</b><br> Sun Rise: <b>06:32 AM</b><br> Sun Set: <b>05:58 PM</b><br> Weather: <b>few clouds</b> | <img align="left" alt="It's night here!" width="200px" height="200px" src="./assets/night.svg" />   |
+| Temperature: <b>20&#176;C</b><br> Sun Rise: <b>06:32 AM</b><br> Sun Set: <b>05:58 PM</b><br> Weather: <b>scattered clouds</b> | <img align="left" alt="It's night here!" width="200px" height="200px" src="./assets/night.svg" />   |
+
+![Workflow Badge](https://github.com/venkivijay/venkivijay/actions/workflows/main.yaml/badge.svg)
