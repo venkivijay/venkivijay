@@ -95,8 +95,8 @@
 
 ## Weather
 
-|  Today's weather | It's evening here!  |
+|  Today's weather | It's night here!  |
 |:---:|:---:|
-| Temperature: <b>35&#176;C</b><br> Sun Rise: <b>05:56 AM</b><br> Sun Set: <b>06:31 PM</b><br> Weather: <b>scattered clouds</b> | <img align="left" alt="It's evening here!" width="200px" height="200px" src="./assets/evening.svg" />   |
+| Temperature: <b>25&#176;C</b><br> Sun Rise: <b>05:56 AM</b><br> Sun Set: <b>06:31 PM</b><br> Weather: <b>overcast clouds</b> | <img align="left" alt="It's night here!" width="200px" height="200px" src="./assets/night.svg" />   |
 
 ![Workflow Badge](https://github.com/venkivijay/venkivijay/actions/workflows/main.yaml/badge.svg)
