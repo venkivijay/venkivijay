@@ -97,6 +97,6 @@
 
 |  Today's weather | It's morning here!  |
 |:---:|:---:|
-| Temperature: <b>19&#176;C</b><br> Sun Rise: <b>06:19 AM</b><br> Sun Set: <b>05:50 PM</b><br> Weather: <b>overcast clouds</b> | <img align="left" alt="It's morning here!" width="200px" height="200px" src="./assets/morning.svg" />   |
+| Temperature: <b>22&#176;C</b><br> Sun Rise: <b>06:19 AM</b><br> Sun Set: <b>05:50 PM</b><br> Weather: <b>haze</b> | <img align="left" alt="It's morning here!" width="200px" height="200px" src="./assets/morning.svg" />   |
 
 ![Workflow Badge](https://github.com/venkivijay/venkivijay/actions/workflows/main.yaml/badge.svg)
