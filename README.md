@@ -97,6 +97,6 @@
 
 |  Today's weather | It's afternoon here!  |
 |:---:|:---:|
-| Temperature: <b>34&#176;C</b><br> Sun Rise: <b>05:53 AM</b><br> Sun Set: <b>06:33 PM</b><br> Weather: <b>haze</b> | <img align="left" alt="It's afternoon here!" width="200px" height="200px" src="./assets/afternoon.svg" />   |
+| Temperature: <b>35&#176;C</b><br> Sun Rise: <b>05:53 AM</b><br> Sun Set: <b>06:33 PM</b><br> Weather: <b>haze</b> | <img align="left" alt="It's afternoon here!" width="200px" height="200px" src="./assets/afternoon.svg" />   |
 
 ![Workflow Badge](https://github.com/venkivijay/venkivijay/actions/workflows/main.yaml/badge.svg)
